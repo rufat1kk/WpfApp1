@@ -18,7 +18,7 @@
         <Slider x:Name="slider2" Value="{Binding ElementName=slider1, Path=Value}" ValueChanged="slider2_ValueChanged" Margin="0,26,0,0" Grid.Row="1" />
 
 
-        <TextBlock x:Name="Message" FontSize="20" HorizontalAlignment="Center" Width="738" RenderTransformOrigin="0,0.5" Margin="0,74,0,0" Grid.Row="1"><Run Language="ru-ru" Text="екнпаекр"/></TextBlock>
+        <TextBlock x:Name="Message" FontSize="20" HorizontalAlignment="Center" Width="738" RenderTransformOrigin="0,0.5" Margin="0,74,0,0" Grid.Row="1"><Run Language="ru-ru" Text="салам брат"/></TextBlock>
 
 
     </Grid>
